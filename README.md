@@ -5,3 +5,4 @@ Tech:
 - TailwindCSS
 - AOS (Animate on Scroll) Library
 - Flowbite (TailwindCSS UI Component)
+- Bootstrap Icon
